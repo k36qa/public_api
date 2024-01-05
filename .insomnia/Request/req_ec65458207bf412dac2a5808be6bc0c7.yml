@@ -1,0 +1,23 @@
+_id: req_ec65458207bf412dac2a5808be6bc0c7
+type: Request
+parentId: wrk_fc82939ffb0b4bf588d1b351a1f9932e
+modified: 1704447339254
+created: 1704447325446
+url: ""
+name: Test_k36qa 2
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/8.5.1
+authentication: {}
+metaSortKey: -1704447325446
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

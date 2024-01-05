@@ -1,0 +1,114 @@
+_id: req_4528aca097c14604b39aa0a514f2e493
+type: Request
+parentId: wrk_fc82939ffb0b4bf588d1b351a1f9932e
+modified: 1704442800558
+created: 1704442780398
+url: https://boapi.yukavita.com/vipvnd-ims/api/v1/promoreqs
+name: Test_k36qa
+description: ""
+method: GET
+body: {}
+parameters:
+  - name: createdfrom
+    value: "1704124800000"
+    disabled: false
+  - name: createdto
+    value: "1704470399999"
+    disabled: false
+  - name: dateFrom
+    value: 2024-01-02
+    disabled: false
+  - name: dateTo
+    value: 2024-01-05
+    disabled: false
+  - name: exactmatch
+    value: "false"
+    disabled: false
+  - name: group1promotypes
+    value: "1"
+    disabled: false
+  - name: group1promotypes
+    value: "2"
+    disabled: false
+  - name: group1promotypes
+    value: "3"
+    disabled: false
+  - name: group1promotypes
+    value: "4"
+    disabled: false
+  - name: group1promotypes
+    value: "8"
+    disabled: false
+  - name: group1promotypes
+    value: "9"
+    disabled: false
+  - name: group1promotypes
+    value: "10"
+    disabled: false
+  - name: group1promotypes
+    value: "13"
+    disabled: false
+  - name: group1promotypes
+    value: "14"
+    disabled: false
+  - name: limit
+    value: "25"
+    disabled: false
+  - name: offset
+    value: "0"
+    disabled: false
+  - name: promogroup1
+    value: "0"
+    disabled: false
+  - name: sort
+    value: DESC
+    disabled: false
+  - name: sortcolumn
+    value: createdat
+    disabled: false
+  - name: withapplicationcount
+    value: "true"
+    disabled: false
+  - name: withcurrentconditioncount
+    value: "true"
+    disabled: false
+  - name: zonetype
+    value: ASIA_SHANGHAI
+    disabled: false
+headers:
+  - name: Accept
+    value: "*/*"
+  - name: Accept-Language
+    value: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7
+  - name: Authorization
+    value: eyJhbGciOiJIUzI1NiJ9.ewogICJpYXQiIDogMTcwNDQ0Mjc0NSwKICAiZXhwIiA6IDE3MDQ0NTM1NDUsCiAgInVzZXJuYW1lIiA6ICJjcnlzdGFsIiwKICAiZW1haWwiIDogbnVsbCwKICAicm9sZSIgOiAiIiwKICAiZXh0cmEiIDogInt9IiwKICAiaXNvcCIgOiB0cnVlCn0.ZFVsjmlF2trWB07zDAT93yf39mHNeZa6fpFmTqxFHRM
+  - name: Connection
+    value: keep-alive
+  - name: Origin
+    value: https://bo.yukavita.com
+  - name: Referer
+    value: https://bo.yukavita.com/
+  - name: Sec-Fetch-Dest
+    value: empty
+  - name: Sec-Fetch-Mode
+    value: cors
+  - name: Sec-Fetch-Site
+    value: same-site
+  - name: User-Agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/120.0.0.0 Safari/537.36
+  - name: sec-ch-ua
+    value: '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"'
+  - name: sec-ch-ua-mobile
+    value: ?0
+  - name: sec-ch-ua-platform
+    value: '"Windows"'
+authentication: {}
+metaSortKey: -1704442780398
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
